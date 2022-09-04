@@ -1,6 +1,6 @@
 # Action Monitor task
 
-This task has been coded using IntelliJ Idea Ultimate, so ita can be tested running the Spring boot from inside the IDE, or executing the proper maven commands.
+This task has been coded using IntelliJ Idea Ultimate, so it can be run from inside the IDE - running the boot -, or executing the proper maven commands on the project root's directory.
 
 ------
 
