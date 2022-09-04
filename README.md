@@ -1,5 +1,9 @@
 # Action Monitor task
 
+This task has been coded using IntelliJ Idea Ultimate, so ita can be tested running the Spring boot from inside the IDE, or executing the proper maven commands.
+
+------
+
 The second point of the task description is:
 
 2. The program should allow two user to communicate between themselves pushing the messages to the destination user. All the messages should be stored in a database.
