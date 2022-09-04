@@ -45,9 +45,7 @@ The websocket technology is a well stablished technology, nevertheless,  we leve
 
 Regarding testing I am a believer on testing by significance, pursuing high coverage of testing is going against Paretto’s Law.  I believe on testing by significance, leveraging on transitive testing.
 
-In tyhis exercise, we have tested the Integration of the websockets infrastructure.
-
-What is left is testing Integration between service and persistence  layer, so it is done testing all the three main Service components capability to save, delete and read.
+In order to complete this exercise, it's been tested the Integration between service and persistence layer, by testing all the three main Service components capability to save, delete and read.
 
 We have used just Junit, there is no need for mocks for this simple exercise.
 
